@@ -1,2 +1,2 @@
 # TestProject
-Be better SWE
+I have to be better SWE
